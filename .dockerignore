@@ -1,0 +1,12 @@
+.git
+.gitignore
+target/
+.idea
+.vscode
+*.iml
+*.log
+*.jar
+*.war
+*.ear
+.DS_Store
+bin/
