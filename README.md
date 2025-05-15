@@ -16,7 +16,7 @@ A Dockerized web application that detects and alerts on security threats (XSS, S
 ## Quick Start
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/intrusion-detection-system.git
+git clone https://github.com/MoNai-01/intrusion-detection-system.git
 cd intrusion-detection-system
 
 # 2. Build and run with Docker
