@@ -14,8 +14,9 @@ A Dockerized web application that detects and alerts on security threats (XSS, S
 - Maven 3.9+
 
 ## Quick Start
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/MoNai-01/intrusion-detection-system.git
 cd intrusion-detection-system
 ```
